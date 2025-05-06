@@ -7,6 +7,10 @@
 - **51191** – Mateo, Alexis  
 
 ---
+# Repositorios
+
+- 🔗 [Frontend](https://github.com/rafiiiirc/frontend)
+- 🔗 [Backend](https://github.com/rafiiiirc/backend)
 
 ## 📌 Tema
 
